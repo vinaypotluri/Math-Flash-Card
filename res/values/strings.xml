@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Math Flash Card</string>
+
+    <string name="add">Addition</string>
+    <string name="sub">Subtraction</string>
+    <string name="mul">Multiplication</string>
+    <string name="div">Division</string>
+    
+	<string name="score">Score : </string>
+	<string name="instruct">Select the correct anwser from the following</string>
+    <string name="texthead">Instructions</string>
+    <string name="textbody">\n 1. Start the Math Flash card game \n
+        					2. Calculate the sum of the given two numbers \n
+        					3. Select the right answer from the following options \n
+        					4. Proceed to the next question  \n\n
+        					
+    Click on options to select from Addition, Subtraction, Multiplication, Division Operations in the Game
+    </string>
+        					
+    <string name="mydetails">Vinay Potluri  \n  fo3256</string>
+
+</resources>
